@@ -1,0 +1,23 @@
+---
+title: "Joshua Lambert, PhD"
+output: 
+  flexdashboard::flex_dashboard:
+    theme: journal
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Blog
+=====================================  
+
+    
+### 11/4/2019 -- Welcome!
+
+Hi!
+
+CV
+=====================================     
+
+See my current CV [here (11/4/2019)](CV.pdf)
