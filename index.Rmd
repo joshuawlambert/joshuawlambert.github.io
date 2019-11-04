@@ -2,8 +2,17 @@
 title: "Joshua Lambert, PhD"
 output: 
   flexdashboard::flex_dashboard:
-    theme: journal
+    theme: cerulean
 ---
+
+<style type="text/css">
+
+.chart-title {  /* chart_title  */
+   font-size: 30px;
+   font-family: Arial;
+
+
+</style>
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
@@ -15,9 +24,9 @@ Blog
     
 ### 11/4/2019 -- Welcome!
 
-Hi!
+ <font size="5">  Hi! </font> 
 
 CV
 =====================================     
 
-See my current CV [here (11/4/2019)](CV.pdf)
+ <font size="5"> See my current CV [here (11/4/2019)](CV.pdf)</font> 
