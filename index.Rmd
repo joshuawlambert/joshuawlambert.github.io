@@ -1,5 +1,5 @@
 ---
-title: "Joshua Lambert, PhD"
+title: "Dr. Joshua Lambert"
 output: 
   flexdashboard::flex_dashboard:
     theme: cerulean
@@ -18,15 +18,36 @@ output:
 library(flexdashboard)
 ```
 
-Blog
+About Me
 =====================================  
+### My Job Duties
+* Assistant Professor and Biostatistician
+    + Within a College of Nursing at the University of Cincinnati
+* I teach PhD students in Nursing Research
+* I consult with Facutly, Students and Staff  within CoN
 
-    
-### 11/4/2019 -- Welcome!
+### My Research 
+* My collaborative research:
+    + Submitted R03 on Maternal Morbity using CSL dataset from NICHD
+    + Submitted R03 on Outcomes of Children Prenatally Exposed to Opioids using a Maternal Infant Data Hub.
+    + Submitted R21 on Identifying Subgroup Effects of Telomere Length
+* I conduct my own research in statistical methodology
+    + The Feasible Solution Algorithm (FSA) (Dissertation December 2017)
+    + R package [rFSA](https://github.com/joshuawlambert/rFSA) (released in Jan 2018)
+    + [rFSA R Journal Paper](https://journal.r-project.org/archive/2018/RJ-2018-059/index.html) (Published December 2018)
+    + Using FSA for estimating pareto optimal regression models
+    + Pareto Interaction Ensemble (PIE) Machine
 
- <font size="5">  Hi! </font> 
 
 CV
 =====================================     
 
  <font size="5"> See my current CV [here (11/4/2019)](CV.pdf)</font> 
+
+Webpages
+=====================================     
+* [University of Cincinnati Researh](https://researchdirectory.uc.edu/p/lambejw)
+* [Research Gate](https://www.researchgate.net/profile/Joshua_Lambert8)
+* [Google Scholar](https://scholar.google.com/citations?user=2qFJqYEAAAAJ&hl=en)
+* [Github](https://github.com/joshuawlambert)
+* [Twitter](https://twitter.com/joshuawlambert)
